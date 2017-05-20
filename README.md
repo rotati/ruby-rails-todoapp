@@ -1,6 +1,6 @@
 # Codeship Pro Ruby on Rails Example
 
-[ ![Codeship Status for codeship-library/ruby-rails-todoapp](https://app.codeship.com/projects/97346e20-f1fa-0134-23f8-2e8f61e6642c/status?branch=master)](https://app.codeship.com/projects/209553)
+[ ![Codeship Status for rotati/ruby-rails-todoapp](https://app.codeship.com/projects/75d1bf90-1f6b-0135-c3d3-165b0e29b86b/status?branch=master)](https://app.codeship.com/projects/220987)
 
 ## Overview
 The following repository is a `todo` API example developed with Ruby on Rails framework.
@@ -8,7 +8,7 @@ The following repository is a `todo` API example developed with Ruby on Rails fr
 This repo serves two main goals:
 
 1. Example application using [Codeship Pro]()
-2. A [Todo Backend](http://todobackend.com/) community project.  
+2. A [Todo Backend](http://todobackend.com/) community project.
 
 The following `README` is a guide to build and deploy with Codeship Pro You will also be able to run this project locally, and use it as a starter app for Ruby on Rails Docker projects.
 
